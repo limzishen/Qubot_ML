@@ -1,2 +1,26 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
 
+# Ignore virtual environment
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files and output
+*.csv
+*.tsv
+*.log
+*.h5
+*.sqlite3
+*.db
+__pycache__/
+
+# Ignore system files
+.DS_Store
+
+# Ignore VSCode or JetBrains IDE settings
+.vscode/
+.idea/
