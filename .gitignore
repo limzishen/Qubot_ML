@@ -5,7 +5,6 @@ bin/
 lib/
 include/
 pyvenv.cfg
-.ipynb_checkpoints
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
